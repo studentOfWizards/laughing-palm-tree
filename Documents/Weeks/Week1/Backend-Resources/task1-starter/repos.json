@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "demo-calculator",
+    "html_url": "https://github.com/example/demo-calculator",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 24
+  },
+  {
+    "id": 2,
+    "name": "demo-simon-says",
+    "html_url": "https://github.com/example/demo-simon-says",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 21
+  },
+  {
+    "id": 3,
+    "name": "demo-portfolio",
+    "html_url": "https://github.com/example/demo-portfolio",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 18
+  },
+  {
+    "id": 4,
+    "name": "demo-todo-list",
+    "html_url": "https://github.com/example/demo-todo-list",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 15
+  },
+  {
+    "id": 5,
+    "name": "demo-weather-app",
+    "html_url": "https://github.com/example/demo-weather-app",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 12
+  },
+  {
+    "id": 6,
+    "name": "demo-quiz",
+    "html_url": "https://github.com/example/demo-quiz",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 9
+  },
+  {
+    "id": 7,
+    "name": "demo-shop-frontend",
+    "html_url": "https://github.com/example/demo-shop-frontend",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 6
+  },
+  {
+    "id": 8,
+    "name": "demo-notes",
+    "html_url": "https://github.com/example/demo-notes",
+    "description": "Sample repository for offline practice",
+    "stargazers_count": 3
+  }
+]

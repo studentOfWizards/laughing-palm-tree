@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 0; color: #1c2333; }
+header { background: #14213d; color: #ffffff; padding: 1rem 2rem; }
+main { padding: 1rem 2rem; max-width: 720px; }
+li { margin: 0.4rem 0; }
+a { color: #0f766e; }
